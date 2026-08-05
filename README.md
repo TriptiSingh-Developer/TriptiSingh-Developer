@@ -49,7 +49,7 @@ An end-to-end AWS analytics architecture comparing lakehouse and warehouse appro
 - Evaluates performance, cost, scalability, and operational trade-offs
 - Demonstrates raw, curated, warehouse-load, and query-result zones
 
-### [Global Football Talent Flows — FIFA 2017–2022](https://github.com/TriptiSingh-Developer/Tableau---Global-Football-Talent-Flows-FIFA-2017-2022-)
+### [fifa-global-talent-analytics](https://github.com/TriptiSingh-Developer/Tableau---fifa-global-talent-analytics-)
 
 A visual-analytics project exploring international football talent patterns.
 
