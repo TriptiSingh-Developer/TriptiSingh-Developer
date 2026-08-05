@@ -40,7 +40,7 @@ A health-insurance question-answering system built over **45 policy PDFs and 7,7
 - Evaluation across retrieval, answer accuracy, citations, and hallucination
 - **P@5/R@5: 0.40 · Answer accuracy: 68% · Citation quality: 93%**
 
-### [AWS Lakehouse vs. Data Warehouse Benchmark](https://github.com/TriptiSingh-Developer/Big-Data-and-Cloud-Computing---AWS)
+### [AWS Lakehouse vs. Data Warehouse Benchmark](https://github.com/TriptiSingh-Developer/aws-lakehouse-vs-warehouse)
 
 An end-to-end AWS analytics architecture comparing lakehouse and warehouse approaches.
 
@@ -49,7 +49,7 @@ An end-to-end AWS analytics architecture comparing lakehouse and warehouse appro
 - Evaluates performance, cost, scalability, and operational trade-offs
 - Demonstrates raw, curated, warehouse-load, and query-result zones
 
-### [fifa-global-talent-analytics](https://github.com/TriptiSingh-Developer/Tableau---fifa-global-talent-analytics-)
+### [fifa-global-talent-analytics](https://github.com/TriptiSingh-Developer/fifa-global-talent-analytics)
 
 A visual-analytics project exploring international football talent patterns.
 
