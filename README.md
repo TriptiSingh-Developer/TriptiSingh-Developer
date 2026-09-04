@@ -18,7 +18,7 @@ I build analytics, cloud-data, and AI solutions that turn complex information in
 
 - Data Analytics and Business Intelligence professional with **5+ years of experience**
 - M.S. in Information Technology & Analytics at **Rutgers Business School** — GPA: **3.92**
-- Part-Time Lecturer teaching **Time Series Modeling for Business**
+- Part-Time Lecturer teaching **Time Series Modeling for Business & Management Information System**
 - Former Project Lead at **Ernst & Young** and Senior Data Analyst at **Tata Consultancy Services**
 - Interested in **data engineering, BI, applied AI, RAG systems, cloud analytics, and forecasting**
 - Research accepted for presentation at **IEEE Cyber-AI 2026**
