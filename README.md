@@ -96,6 +96,7 @@ Analyzed multi-channel campaign and user behavior data, developed KPI dashboards
 
 ## Certifications
 
+- Microsoft Certified: **Fabric Analytics Engineer Associate (DP-600)**
 - Microsoft Certified: **Azure Fundamentals (AZ-900)**
 - Microsoft Certified: **Data Analyst Associate / DA-100**
 - Microsoft Certified: **Azure Solutions Architect Expert — AZ-305 exam**
