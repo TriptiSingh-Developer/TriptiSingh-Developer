@@ -60,7 +60,7 @@ A visual-analytics project exploring international football talent patterns.
 
 ### AI-Powered Cybersecurity in Big Data Environments
 
-Research accepted for **IEEE Cyber-AI 2026**.
+Research accepted and presented for **IEEE Cyber-AI 2026**.
 
 - Designed a five-layer architecture: **Kafka → Flink → Feature Store → MLflow → SOAR**
 - Examines scalable AI-driven threat detection, adversarial risk, and real-time defense
